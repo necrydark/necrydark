@@ -15,8 +15,6 @@
 
 - ✨ Currently a software engineering student
 
-- 🔭 I’m currently working on [Makima](https://github.com/necrydark/Makima)
-
 - 🌱 I’m currently learning **React, Discord JS, C++, Javascript**
 
 - 👨‍💻 All of my projects are available at [necrydark.dev](necrydark.dev)
