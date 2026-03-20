@@ -2,7 +2,7 @@
 
 ## 👨 About Me
 
-🔭 I’m currently working on [my portfolio](https://necrydark.dev/) and [GCWiki](https://gcwiki.vercel.app/)<br>🌱 Currently exploring animations in **Framer** & **GSAP**. Learning **TanStack Query**, **React Router V7**<br>💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Node.js`, `Framer` and many other things! <br>📫 Reach me at: [michaelkconnor.02@gmail.com](mailto:michaelkconnor.02@gmail.com)<br>🧠 Explore all my work at: [necrydark.dev](https://necrydark.dev/)<br>📍 Looking for software developer roles (remote, Liverpool based, can relocate too)
+🔭 I’m currently working on [my portfolio](https://necrydark.dev/) and [GCWiki](https://gcwiki.vercel.app/)<br>🌱 Currently exploring animations in **Framer** & **GSAP**. Learning **TanStack Query**, **React Router V7**<br>💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Node.js`, `Framer` and many other things! <br>📫 Reach me at: [michaelkconnor.02@gmail.com](mailto:michaelkconnor.02@gmail.com)<br>🧠 Explore all my work at: [michaelkconnor.com](https://michaelkconnor.com/)<br>📍 Looking for software developer roles (remote, Liverpool based, can relocate too)
 
 ## 💻 Tech Stack
 
